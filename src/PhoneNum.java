@@ -1,0 +1,2 @@
+public class ClassPhone {
+}
